@@ -24,14 +24,23 @@ fact_sales_monthly: contains monthly sales data for each product.
 
 ## Requests
 Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region.
+
 What is the percentage of unique product increase in 2021 vs. 2020?
+
 Provide a report with all the unique product counts for each segment and sort them in descending order of product counts.
+
 Follow-up: Which segment had the most increase in unique products in 2021 vs 2020?
+
 Get the products that have the highest and lowest manufacturing costs.
+
 Generate a report which contains the top 5 customers who received an average high pre_invoice_discount_pct for the fiscal year 2021 and in the Indian market.
+
 Get the complete report of the Gross sales amount for the customer “Atliq Exclusive” for each month. This analysis helps to get an idea of low and high-performing months and take strategic decisions.
+
 In which quarter of 2020, got the maximum total_sold_quantity?
+
 Which channel helped to bring more gross sales in the fiscal year 2021 and the percentage of contribution?
+
 Get the Top 3 products in each division that have a high total_sold_quantity in the fiscal_year 2021?
 
 
